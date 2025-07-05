@@ -99,10 +99,10 @@ src/
 ## 🙌 Credits
 
 - All plant images used are sourced from **Pixabay** and **Yandex Images**
-- Developed with ❤️ by [Your Name]
+- Developed with ❤️ by Ansar Khan
 
 ---
 
 ## 📬 Contact
 
-For any suggestions or queries, feel free to reach out at: **your-email@example.com**
+For any suggestions or queries, feel free to reach out at: **ansarkhanaptech1234@gmail.com**
