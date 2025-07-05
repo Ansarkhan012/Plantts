@@ -145,7 +145,7 @@ const FeaturedProducts = () => {
                 </div>
                 <button
                   onClick={() => addToCart(product)}
-                  className="w-full bg-green-600 hover:bg-green-700 text-white py-2 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors duration-300"
+                  className="w-full bg-green-600 hover:bg-green-700 text-white p-1.5 rounded-lg flex items-center justify-center gap-2 transition-colors duration-300"
                 >
                   <FaShoppingCart /> Add to Cart
                 </button>
